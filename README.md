@@ -1,1 +1,1 @@
-# GitHub package test repo
+# GitHub shared packages
